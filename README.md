@@ -1,7 +1,8 @@
-👋 Hi, I’m @mtrawczynski
-- 🌱 I’m currently learning:
-- (i) Backend: Java (Spring), Maven | PHP (Laravel)
-- (ii) Frontend: CSS, JS (React)
-- (iii) Databases: PostgreSQL, Hibernate
+  👋 Hi, my name is Michael.
 
-- 📫 Reach me on LinkedIn: linkedin.com/in/michaltrawczynski
+I’m currently learning:
+- (i) BACKEND: Java & Spring, Maven | PHP & Laravel
+- (ii) FRONTEND: HTML, CSS, JavaScript & React
+- (iii) DATABASES: PostgreSQL, Hibernate
+
+  📫 Reach me on LinkedIn: linkedin.com/in/michaltrawczynski
